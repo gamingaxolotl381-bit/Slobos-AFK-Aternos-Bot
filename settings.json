@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "chwtmarosmpreborn.aternos.me:15953,
+    "ip": "chwtmarosmpreborn.aternos.me:15953"
     "port": 15953,
     "version": "",
     "try-creative": false
