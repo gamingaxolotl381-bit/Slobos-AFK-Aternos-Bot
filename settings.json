@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "chwtmarosmpreborn.aternos.me:15953,
+    "port": 15953,
     "version": "",
     "try-creative": false
   },
